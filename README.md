@@ -1,6 +1,6 @@
 # i9 SHOPPING LIST
 
-Projeto criado em FLUTTER 
+PROJETO ACADEMICO EM FLUTTER
 
 ## Desenvolvedor
 
